@@ -1,4 +1,5 @@
 public class check_palindrome {
+
     public static int reverseNum(int num) {
         int reversedNum = 0;
 
